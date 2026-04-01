@@ -17,5 +17,14 @@ def multiply(a,b):
 
 print(multiply(2, 3))
 
+<<<<<<< HEAD
 def subtract(a, b):
     return a - b
+=======
+
+def power(a, b):
+    return a ** b
+
+print(power(2, 3))
+
+>>>>>>> develop
