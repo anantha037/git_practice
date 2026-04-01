@@ -11,3 +11,6 @@ def add(a,b):
     return a+b
 
 print("hi")
+
+print(add(2,3))
+
