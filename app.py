@@ -9,3 +9,5 @@ print("Edited from GitHub")
 
 def add(a,b):
     return a+b
+
+print("hi")
